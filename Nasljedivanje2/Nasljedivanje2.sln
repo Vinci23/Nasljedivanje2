@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasljedivanje2", "Nasljedivanje2.csproj", "{DE8D3D1D-F740-4243-8F64-62E5247CCA25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8D3D1D-F740-4243-8F64-62E5247CCA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8D3D1D-F740-4243-8F64-62E5247CCA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8D3D1D-F740-4243-8F64-62E5247CCA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8D3D1D-F740-4243-8F64-62E5247CCA25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEA84C35-BB76-445C-B662-75AB08C8CF5C}
+	EndGlobalSection
+EndGlobal
